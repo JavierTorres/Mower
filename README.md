@@ -1,4 +1,4 @@
-# SEAT:CODE Technical Challenge
+# Mower
 
 ## Table of Contents
 
